@@ -1,4 +1,5 @@
 # Hi I'm Jonghyo 👋
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonghyo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false"/></a>
 [![Twitter Badge](https://img.shields.io/badge/-@fashioncrazy66-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fashioncrazy66)](https://twitter.com/fashioncrazy66)
 [![Linkedin Badge](https://img.shields.io/badge/-JonghyoChang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonghyo/)](https://www.linkedin.com/in/jonghyo/)
 
