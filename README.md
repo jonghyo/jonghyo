@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JonghyoChang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonghyo/)](https://www.linkedin.com/in/jonghyo/)
 
 # My GitHub works
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonghyo)](https://github.com/jonghyo)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonghyo&count_private=true&show_icons=true&theme=buefy)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyo&layout=compact&theme=buefy)
 
