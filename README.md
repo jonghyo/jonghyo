@@ -12,7 +12,7 @@
 <a href="https://qiita.com/jonghyo" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita1-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 <a href="https://qiita.com/john-Q" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita2-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/jonghyo" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ryo-kawamata-b4999b199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonghyo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </p>
 
