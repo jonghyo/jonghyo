@@ -1,0 +1,17 @@
+# Refer for explanation to following link:
+# https://github.com/evilmartians/lefthook/blob/master/docs/configuration.md
+
+pre-commit:
+  parallel: true
+  commands:
+    secretlint:
+      glob: "*"
+      run: npx secretlint --maskSecrets --secretlintignore .gitignore "{staged_files}"
+    markdownlint:
+      glob: "*.{md,mdx}"
+      run: npx markdownlint-cli2 {staged_files}
+commit-msg:
+  parallel: true
+  commands:
+    commitlint:
+      run: npx commitlint -e
