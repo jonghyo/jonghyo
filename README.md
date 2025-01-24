@@ -23,7 +23,7 @@
 
 ## My Skills
 
-I have professional experience using the following tech stacks.
+I have professional experience using the following skills.
 
 [![My Skills:frontend](https://skillicons.dev/icons?i=js,ts,html,css,npm,yarn,react,nextjs,vue,astro,tailwind,bootstrap,vite,vitest)](https://skillicons.dev)
 </br>
