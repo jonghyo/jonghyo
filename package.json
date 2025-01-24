@@ -1,0 +1,20 @@
+{
+  "name": "jonghyo",
+  "version": "1.0.0",
+  "description": "<a href=\"https://hits.seeyoufarm.com\"><img src=\"https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjonghyo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false\"/></a> [![X Badge](https://img.shields.io/badge/-@jonghyo_-000000?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://x.com/jonghyo_)](https://x.com/jonghyo_) [![Linkedin Badge](https://img.shields.io/badge/-JonghyoChang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonghyo/)](https://www.linkedin.com/in/jonghyo/)",
+  "main": "index.js",
+  "scripts": {
+    "markdownlint": "markdownlint-cli2 \"docs/**/*.{md,mdx}\"",
+    "markdownlint:fix": "markdownlint-cli2 --fix \"docs/**/*.{md,mdx}\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^19.6.1",
+    "@commitlint/config-conventional": "^19.6.0",
+    "@secretlint/secretlint-rule-preset-recommend": "^9.0.0",
+    "lefthook": "^1.10.10",
+    "markdownlint-cli2": "^0.17.2",
+    "secretlint": "^9.0.0"
+  }
+}
