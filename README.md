@@ -35,6 +35,11 @@ I have professional experience using the following skills.
 </br>
 [![My Skills:os](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
 
+## Zenn latest posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My Qiita works
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/jonghyo/posts.svg)](http://qiita.com/jonghyo) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/jonghyo/contributions.svg)](http://qiita.com/jonghyo) [![My Qiita followers](https://qiita-badge.apiapi.app/s/jonghyo/followers.svg)](http://qiita.com/jonghyo)
