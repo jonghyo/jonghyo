@@ -46,6 +46,9 @@ I have professional experience using the following skills.
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/jonghyo/posts.svg)](http://qiita.com/jonghyo) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/jonghyo/contributions.svg)](http://qiita.com/jonghyo) [![My Qiita followers](https://qiita-badge.apiapi.app/s/jonghyo/followers.svg)](http://qiita.com/jonghyo)
 
 <!-- QIITA-PRIVATE-POST-LIST:START -->
+- [おれのおれによるおれのためのMacおすすめ設定](https://qiita.com/jonghyo/items/733e0aeb5d6cd58e4855)
+- [チャットでコマンドをやり取りして惨劇が起きかけた話](https://qiita.com/jonghyo/items/dcaca91874a03f177f8c)
+- [Kotlin 1.3.50がリリースされました!!](https://qiita.com/jonghyo/items/3c9e6b0624aa7743e563)
 <!-- QIITA-PRIVATE-POST-LIST:END -->
 
 <!-- QIITA-COMPANY-POST-LIST:START -->
