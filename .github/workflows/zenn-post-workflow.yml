@@ -9,7 +9,20 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v4
+            # add Zenn post
             - uses: gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "5"
                 feed_list: "https://zenn.dev/jonghyo/feed"
+            # add Qiita(private) post
+            - uses: gautamkrishnar/blog-post-workflow@v1
+              with: 
+                max_post_count: "3"
+                feed_list: "https://qiita.com/jonghyo/feed"
+                comment_tag_name: "QIITA-PRIVATE-POST-LIST"
+            # add Qiita(company) post
+            - uses: gautamkrishnar/blog-post-workflow@v1
+              with: 
+                max_post_count: "3"
+                feed_list: "https://qiita.com/john-Q/feed"
+                comment_tag_name: "QIITA-COMPANY-POST-LIST"
