@@ -44,3 +44,9 @@ I have professional experience using the following skills.
 ## My Qiita works
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/jonghyo/posts.svg)](http://qiita.com/jonghyo) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/jonghyo/contributions.svg)](http://qiita.com/jonghyo) [![My Qiita followers](https://qiita-badge.apiapi.app/s/jonghyo/followers.svg)](http://qiita.com/jonghyo)
+
+<!-- QIITA-PRIVATE-POST-LIST:START -->
+<!-- QIITA-PRIVATE-POST-LIST:END -->
+
+<!-- QIITA-COMPANY-POST-LIST:START -->
+<!-- QIITA-COMPANY-POST-LIST:END -->
