@@ -52,4 +52,7 @@ I have professional experience using the following skills.
 <!-- QIITA-PRIVATE-POST-LIST:END -->
 
 <!-- QIITA-COMPANY-POST-LIST:START -->
+- [【時代はHono🔥!?】今さらながらNext.js App RouterユーザがHonoを調べてみた](https://qiita.com/john-Q/items/394ba6ffdba08580f1bc)
+- [今モノレポやるならどのツール使うのがいいのん??](https://qiita.com/john-Q/items/ef7c433a5f441ff89ffb)
+- [ワイのGitHubリポジトリおすすめ設定&lpar;2022年 決定版&rpar;](https://qiita.com/john-Q/items/8b42d56b0be4ec63edb4)
 <!-- QIITA-COMPANY-POST-LIST:END -->
