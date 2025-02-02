@@ -38,6 +38,7 @@ I have professional experience using the following skills.
 ## Zenn latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js MiddlewareはNode.js runtimeでも使える！【誤解を解消＆今後の展望】](https://zenn.dev/jonghyo/articles/nextjs-middleware)
 - [Zennの記事をGitHub連携でカッチリ管理するおすすめ設定](https://zenn.dev/jonghyo/articles/zenn-github-repo)
 <!-- BLOG-POST-LIST:END -->
 
