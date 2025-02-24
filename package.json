@@ -15,6 +15,6 @@
     "@secretlint/secretlint-rule-preset-recommend": "^9.2.0",
     "lefthook": "^1.10.10",
     "markdownlint-cli2": "^0.17.2",
-    "secretlint": "^9.0.0"
+    "secretlint": "^9.2.0"
   }
 }
