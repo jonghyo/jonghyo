@@ -12,9 +12,9 @@
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
-    "@secretlint/secretlint-rule-preset-recommend": "^9.3.4",
-    "lefthook": "^1.11.13",
+    "@secretlint/secretlint-rule-preset-recommend": "^11.2.4",
+    "lefthook": "^1.13.0",
     "markdownlint-cli2": "^0.18.1",
-    "secretlint": "^9.3.4"
+    "secretlint": "^11.2.4"
   }
 }
